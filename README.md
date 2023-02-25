@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>PDF Stamper</title>
+    
   </head>
   <body>
     <h1>PDF Stamper</h1>
